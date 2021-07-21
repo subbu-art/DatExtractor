@@ -1,9 +1,9 @@
-dateutil - powerful extensions to datetime
+DatExtractor - Extract date from text
 ==========================================
 
 |pypi| |support| |licence|
 
-|gitter| |readthedocs|
+|readthedocs|
 
 |travis| |appveyor| |pipelines| |coverage|
 
