@@ -5,8 +5,8 @@ readme = Path("README.rst").read_text(encoding="utf-8")
 
 setup(
     name = 'DatExtractor',
-    version = '1.0',
-    description = 'This package lets the users to extract date by passing the text which contains the date. This package identifies the date and extracts it.',
+    version = '1.0.1',
+    description = 'This package lets the users to extract date from the text. This package identifies the date component and extracts it.',
     long_description=readme,
     long_description_content_type="text/x-rst",
     author="Sri Phani Subramanyam",
