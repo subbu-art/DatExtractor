@@ -64,17 +64,6 @@ text to the function as an argument. the default format of
 date you get is (mm/dd/yyyy). However you can modify the date format by 
 passing the date format argument, so that you get the date in expected format.:
 
-.. doctest:: readmeexample
-
-    >>> from DatExtractor import date_parser
-    >>> date_parser("Please find the status of the following invoice 4063979243 on date:- 29/10/2020 with PO number:- 1548546745")
-    ['10/29/2020']
-    >>> date_parser("Please find the status of the following invoice 4063979243 on date:- 29/10/2020 with PO number:- 1548546745","%Y/%d/%m")
-    ['2020/29/10']
-    >>> date_parser("Please find the status of the following invoice 4063979243 on date:- 29/10/2020 with PO number:- 1548546745","%d/%Y/%m")
-    ['29/2020/10']
-
-
 Author
 ======
 The DatExtractor module was written by Sri Phani Subramanyam subbu27498@gmail.com in 2021.
