@@ -1,8 +1,34 @@
+<<<<<<< HEAD
 DatExtractor - It is a very useful tool to extract data from text
 
+=======
+DatExtractor - Extract date from text
+==========================================
+
+|pypi| |support| |licence|
+
+|readthedocs|
+
+
+.. |pypi| image:: https://img.shields.io/pypi/v/python-dateutil.svg?style=flat-square
+    :target: https://pypi.org/project/DatExtractor/
+    :alt: pypi version
+
+.. |support| image:: https://img.shields.io/pypi/pyversions/python-dateutil.svg?style=flat-square
+    :target: https://pypi.org/project/DatExtractor/
+    :alt: supported Python version
+
+.. |licence| image:: https://img.shields.io/pypi/l/python-dateutil.svg?style=flat-square
+    :target: https://pypi.org/project/DatExtractor/
+    :alt: licence
+
+.. |readthedocs| image:: https://img.shields.io/readthedocs/dateutil/latest.svg?style=flat-square&label=Read%20the%20Docs
+   :alt: Read the documentation at https://dateutil.readthedocs.io/en/latest/
+   :target: https://dateutil.readthedocs.io/en/latest/
+>>>>>>> 07d81f326e145e668409e1b337e1a28d1608f2df
 
 The `DatExtractor` module provides the most efficient way of 
-extracting date from text, available in Python.
+extracting date from text in the required format you need, available in Python.
 
 Installation
 ============
@@ -43,6 +69,19 @@ text to the function as an argument. the default format of
 date you get is (mm/dd/yyyy). However you can modify the date format by 
 passing the date format argument, so that you get the date in expected format.:
 
+<<<<<<< HEAD
+=======
+.. doctest:: readmeexample
+
+    >>> from DatExtractor import date_parser
+    >>> date_parser("Please extract date:- 29/10/2020.")
+    ['10/29/2020']
+    >>> date_parser("Please extract date:- 29/10/2020.","%Y/%d/%m")
+    ['2020/29/10']
+    >>> date_parser("Please extract dates:- 29/10/2020, 12/21/2018","%d/%Y/%m")
+    ['29/2020/10','21/2018/12']
+
+>>>>>>> 07d81f326e145e668409e1b337e1a28d1608f2df
 Author
 ======
 The DatExtractor module was written by Sri Phani Subramanyam subbu27498@gmail.com in 2021.
@@ -59,5 +98,10 @@ License
 =======
 
 Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
+<<<<<<< HEAD
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed. GNU General Public License v3.0 https://choosealicense.com/licenses/gpl-3.0/#>.
+=======
+Everyone is permitted to copy and distribute verbatim copied
+of this license document, but changing it is not allowed. GNU General Public License v3.0 https://choosealicense.com/licenses/gpl-3.0/#.
+>>>>>>> 07d81f326e145e668409e1b337e1a28d1608f2df
