@@ -12,7 +12,7 @@ Welcome to DatExtractor's documentation!
 
 Readme File
 ===========
-.. include:: ../../README.md
+.. include:: ../../README.rst
 
 Indices and tables
 ==================
