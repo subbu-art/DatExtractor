@@ -10,21 +10,21 @@ DatExtractor - Extract date from text
 |readthedocs|
 
 
-.. |pypi| image:: https://img.shields.io/pypi/v/python-dateutil.svg?style=flat-square
+.. |pypi| image:: https://img.shields.io/pypi/v/python-DatExtractor.svg?style=flat-square
     :target: https://pypi.org/project/DatExtractor/
     :alt: pypi version
 
-.. |support| image:: https://img.shields.io/pypi/pyversions/python-dateutil.svg?style=flat-square
+.. |support| image:: https://img.shields.io/pypi/pyversions/python-DatExtractor.svg?style=flat-square
     :target: https://pypi.org/project/DatExtractor/
     :alt: supported Python version
 
-.. |licence| image:: https://img.shields.io/pypi/l/python-dateutil.svg?style=flat-square
+.. |licence| image:: https://img.shields.io/pypi/l/python-DatExtractor.svg?style=flat-square
     :target: https://pypi.org/project/DatExtractor/
     :alt: licence
 
-.. |readthedocs| image:: https://img.shields.io/readthedocs/dateutil/latest.svg?style=flat-square&label=Read%20the%20Docs
-   :alt: Read the documentation at https://dateutil.readthedocs.io/en/latest/
-   :target: https://dateutil.readthedocs.io/en/latest/
+.. |readthedocs| image:: https://img.shields.io/readthedocs/DatExtractor/latest.svg?style=flat-square&label=Read%20the%20Docs
+   :alt: Read the documentation at https://datextractor.readthedocs.io/en/latest/
+   :target: https://datextractor.readthedocs.io/en/latest/
 
 The `DatExtractor` module provides the most efficient way of 
 extracting date from text in the required format you need, available in Python.
@@ -38,10 +38,10 @@ name is different from the importable name)::
 
 Download
 ========
-dateutil is available on PyPI
+DatExtractor is available on PyPI
 https://pypi.org/project/DatExtractor/1.0/
 
-The documentation is hosted at:
+The documentation is hosted at: https://datextractor.readthedocs.io/en/latest/
 
 
 Code
