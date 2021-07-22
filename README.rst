@@ -72,7 +72,7 @@ passing the date format argument, so that you get the date in expected format.:
     >>> date_parser("Please extract date:- 29/10/2020.","%Y/%d/%m")
     ['2020/29/10']
     >>> date_parser("Please extract dates:- 29/10/2020, 12/21/2018","%d/%Y/%m")
-    ['29/2020/10','21/2018/12]
+    ['29/2020/10','21/2018/12']
 
 Author
 ======
