@@ -69,6 +69,7 @@ date you get is (mm/dd/yyyy). However you can modify the date format by
 passing the date format argument, so that you get the date in expected format.:
 
 =======
+
 .. doctest:: readmeexample
 
     >>> from DatExtractor import date_parser
@@ -95,9 +96,5 @@ License
 =======
 
 Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
-<<<<<<< HEAD
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed. GNU General Public License v3.0 https://choosealicense.com/licenses/gpl-3.0/#>.
-=======
-Everyone is permitted to copy and distribute verbatim copied
-of this license document, but changing it is not allowed. GNU General Public License v3.0 https://choosealicense.com/licenses/gpl-3.0/#.
