@@ -1,7 +1,7 @@
 
 DatExtractor - It is a very useful tool to extract data from text
 
-=======
+
 DatExtractor - Extract date from text
 ==========================================
 
@@ -10,19 +10,19 @@ DatExtractor - Extract date from text
 |readthedocs|
 
 
-.. |pypi| image:: https://img.shields.io/pypi/v/python-DatExtractor.svg?style=flat-square
+.. |pypi| image:: https://img.shields.io/pypi/v/python-dateutil.svg?style=flat-square
     :target: https://pypi.org/project/DatExtractor/
     :alt: pypi version
 
-.. |support| image:: https://img.shields.io/pypi/pyversions/python-DatExtractor.svg?style=flat-square
+.. |support| image:: https://img.shields.io/pypi/pyversions/python-dateutil.svg?style=flat-square
     :target: https://pypi.org/project/DatExtractor/
     :alt: supported Python version
 
-.. |licence| image:: https://img.shields.io/pypi/l/python-DatExtractor.svg?style=flat-square
+.. |licence| image:: https://img.shields.io/pypi/l/python-dateutil.svg?style=flat-square
     :target: https://pypi.org/project/DatExtractor/
     :alt: licence
 
-.. |readthedocs| image:: https://img.shields.io/readthedocs/DatExtractor/latest.svg?style=flat-square&label=Read%20the%20Docs
+.. |readthedocs| image:: https://img.shields.io/readthedocs/dateutil/latest.svg?style=flat-square&label=Read%20the%20Docs
    :alt: Read the documentation at https://datextractor.readthedocs.io/en/latest/
    :target: https://datextractor.readthedocs.io/en/latest/
 
@@ -68,7 +68,6 @@ text to the function as an argument. the default format of
 date you get is (mm/dd/yyyy). However you can modify the date format by 
 passing the date format argument, so that you get the date in expected format.:
 
-=======
 
 .. doctest:: readmeexample
 
