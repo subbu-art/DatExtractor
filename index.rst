@@ -4,4 +4,4 @@
    contain the root `toctree` directive.
 
 
-.. include:: ../README.rst
+.. include:: README.rst
