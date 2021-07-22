@@ -5,18 +5,17 @@ DatExtractor - Extract date from text
 
 |readthedocs|
 
-|travis| |appveyor| |pipelines| |coverage|
 
 .. |pypi| image:: https://img.shields.io/pypi/v/python-dateutil.svg?style=flat-square
-    :target: python link
+    :target: https://pypi.org/project/DatExtractor/
     :alt: pypi version
 
 .. |support| image:: https://img.shields.io/pypi/pyversions/python-dateutil.svg?style=flat-square
-    :target: 
+    :target: https://pypi.org/project/DatExtractor/
     :alt: supported Python version
 
 .. |licence| image:: https://img.shields.io/pypi/l/python-dateutil.svg?style=flat-square
-    :target: 
+    :target: https://pypi.org/project/DatExtractor/
     :alt: licence
 
 .. |readthedocs| image:: https://img.shields.io/readthedocs/dateutil/latest.svg?style=flat-square&label=Read%20the%20Docs
@@ -24,7 +23,7 @@ DatExtractor - Extract date from text
    :target: https://dateutil.readthedocs.io/en/latest/
 
 The `DatExtractor` module provides the most efficient way of 
-extracting date from text, available in Python.
+extracting date from text in the required format you need, available in Python.
 
 Installation
 ============
@@ -44,7 +43,7 @@ https://dateutil.readthedocs.io/en/stable/
 Code
 ====
 The code and issue tracker are hosted on GitHub:
-https://github.com/dateutil/dateutil/
+https://github.com/subbu-art/DatExtractor
 
 Features
 ========
@@ -78,19 +77,19 @@ passing the date format argument, so that you get the date in expected format.:
 
 Author
 ======
-The DatExtractor module was written by Sri Phani Subramanyam <subbu27498@gmail.com> in 2021.
+The DatExtractor module was written by Sri Phani Subramanyam subbu27498@gmail.com in 2021.
 
 It is maintained by:
 
-* Sri Phani Subramanyam <subbu27498@gmail.com> 2021-Present
+* Sri Phani Subramanyam subbu27498@gmail.com 2021-Present
   
 Contact
 =======
-For queries please contact <subbu27498@gmail.com>. 
+For queries please contact subbu27498@gmail.com. 
 
 License
 =======
 
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed. `GNU General Public License v3.0 <https://choosealicense.com/licenses/gpl-3.0/#>`.
+Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
+Everyone is permitted to copy and distribute verbatim copied
+of this license document, but changing it is not allowed. GNU General Public License v3.0 https://choosealicense.com/licenses/gpl-3.0/#.
