@@ -96,4 +96,4 @@ License
 
 Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
 Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed. GNU General Public License v3.0 https://choosealicense.com/licenses/gpl-3.0/#.
+of this license document, but changing it is not allowed. GNU General Public License v3.0 https://choosealicense.com/licenses/gpl-3.0/
